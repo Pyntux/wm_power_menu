@@ -4,8 +4,9 @@ Make app executable with "chmod +x wm_power_menu"
 
 Start script (app) from any executable dir in your system.... or with ./wm_power_menu
 
+
+
 App commands:
-______________
 
 SHUTDOWN:"shutdown -h now"
 
