@@ -36,10 +36,10 @@ class MainWindow(QMainWindow):
         button_3.setGeometry(28, 120, 110, 40)
         button_3.clicked.connect(self.logout)
 
-		# Dugme_4:
+	# Dugme_4:
         button_4 = QPushButton('Suspend', self)
         button_4.setGeometry(28, 170, 110, 40)
-        button_4.clicked.connect(self.logout)
+        button_4.clicked.connect(self.suspend)
 
         # Dugme_5:
         button_5 = QPushButton('Cancel', self)
