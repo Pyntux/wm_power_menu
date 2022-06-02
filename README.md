@@ -1,4 +1,4 @@
-### Simple python + qt5 POWER MENU for WM....
+## Simple python + qt5 POWER MENU for WM....
 
 
 - Make app executable with "chmod +x wm_power_menu"
@@ -10,7 +10,7 @@
 
 
 
-### App commands:
+## App commands:
 
 SHUTDOWN: "shutdown -h now"
 
@@ -21,6 +21,6 @@ LOGOUT:   "loginctl terminate-session ${XDG_SESSION_ID-}"
 CANCEL: just option to exit app.....
 
 
-## You need to install python-pyqt5 (arch package name)
+### You need to install python-pyqt5 (arch package name)
 
 P.S. I just do not have time to make AUR package....
