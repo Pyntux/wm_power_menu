@@ -7,6 +7,9 @@ Start script (app) from any executable dir in your system.... or with ./wm_power
 App commands:
 
 SHUTDOWN:"shutdown -h now"
+
 REBOOT:"reboot"
+
 LOGOUT:"loginctl terminate-session ${XDG_SESSION_ID-}"
+
 SUSPEND:"systemctl suspend"
