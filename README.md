@@ -21,4 +21,6 @@ LOGOUT:   "loginctl terminate-session ${XDG_SESSION_ID-}"
 CANCEL: just option to exit app.....
 
 
+## You need to install python-pyqt5 (arch package name)
+
 P.S. I just do not have time to make AUR package....
