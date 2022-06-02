@@ -8,10 +8,10 @@
 
 ### App commands:
 
-SHUTDOWN:"shutdown -h now"
+SHUTDOWN: "shutdown -h now"
 
-REBOOT:"reboot"
+REBOOT:   "reboot"
 
-LOGOUT:"loginctl terminate-session ${XDG_SESSION_ID-}"
+LOGOUT:   "loginctl terminate-session ${XDG_SESSION_ID-}"
 
-SUSPEND:"systemctl suspend"
+SUSPEND:  "systemctl suspend"
