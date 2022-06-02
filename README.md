@@ -19,3 +19,6 @@ REBOOT:   "reboot"
 LOGOUT:   "loginctl terminate-session ${XDG_SESSION_ID-}"
 
 CANCEL: just option to exit app.....
+
+
+P.S. I just do not have time to make AUR package....
