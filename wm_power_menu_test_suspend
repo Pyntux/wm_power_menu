@@ -57,7 +57,7 @@ class MainWindow(QMainWindow):
         os.system("loginctl terminate-session ${XDG_SESSION_ID-}")
 
     def suspend(self):
-        os.system("sytemctl suspend")
+        os.system("systemctl suspend")
 
     def exit(self):
         sys.exit()
