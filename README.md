@@ -6,7 +6,7 @@
 - Start script (app) from any executable dir in your system.... or with ./wm_power_menu
 
 
-![wm_power_menu](https://raw.githubusercontent.com/Pyntux/wm_power_menu/main/wm_power_menu.png)
+![wm_power_menu]()
 
 
 
