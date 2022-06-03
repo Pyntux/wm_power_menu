@@ -18,6 +18,8 @@ REBOOT:   "reboot"
 
 LOGOUT:   "loginctl terminate-session ${XDG_SESSION_ID-}"
 
+SUSPEND:  "systemctl suspend"
+
 CANCEL: just option to exit app.....
 
 
